@@ -1,2 +1,2 @@
-# dinar-trader
+# dinar
 Trade Dinars
